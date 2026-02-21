@@ -1,6 +1,6 @@
 # Predicting-Skill-Survival-in-AI-Driven-Labor-Markets-2010-2030-
 
-###GOAL :
+###🎯GOAL :
 
 Build a Data-Driven model that predicts which professional skills are likely to remain relavent, decline or become obsolete due to AI and Automation dy 2030
 
