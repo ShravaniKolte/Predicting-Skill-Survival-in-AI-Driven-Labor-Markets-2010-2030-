@@ -18,4 +18,5 @@ This project Answers the following questions:
 4️⃣ Which skills are most exposed to AI-related displacement signals?
 5️⃣ Which skills are gaining momentum in AI-intensive roles?
 6️⃣ Based on all signals, what is the predicted survival probability of each skill by 2030?
-###STATUS : In Progress
+
+###STATUS : Paused (Restart on 10th April (Tentetive))
